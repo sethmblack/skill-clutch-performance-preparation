@@ -3,8 +3,9 @@ name: clutch-performance-preparation
 description: Build the mental and physical preparation that enables confident, composed performance in high-pressure, high-stakes moments using Michael Jordan's clutch methodology.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3613
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - clutch-performance-preparation
 - writing
