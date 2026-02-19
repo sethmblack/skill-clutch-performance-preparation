@@ -4,7 +4,7 @@ description: Build the mental and physical preparation that enables confident, c
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3613
+  version: 1.0.3614
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - clutch-performance-preparation
